@@ -21,3 +21,8 @@ Familiarized myself with JavaScript's core data types:
 
 ### 4. Documentation & Standards
 * Learned how to navigate and read official documentation using **MDN Web Docs** and **ECMA specifications** for authoritative language references.
+
+**Type Conversion:** 
+  * **String to Number:** Using `Number()`, `parseInt()`, or the unary `+` operator.
+  * **Number to String:** Using `String()` or template literals.
+  * **To Boolean:** Converting numbers and strings into truthy/falsy boolean values using `Boolean()`.
