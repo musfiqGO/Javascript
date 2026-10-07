@@ -26,3 +26,8 @@ Familiarized myself with JavaScript's core data types:
   * **String to Number:** Using `Number()`, `parseInt()`, or the unary `+` operator.
   * **Number to String:** Using `String()` or template literals.
   * **To Boolean:** Converting numbers and strings into truthy/falsy boolean values using `Boolean()`.
+
+
+* JavaScript string-to-number conversion
+
+* Prefix vs. Postfix operators (++ and --)
