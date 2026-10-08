@@ -31,3 +31,7 @@ Familiarized myself with JavaScript's core data types:
 * JavaScript string-to-number conversion
 
 * Prefix vs. Postfix operators (++ and --)
+
+### 5. Data Type Comparisons
+* **Type Coercion:** Learned how JavaScript converts strings to numbers during comparisons.
+* **Comparisons vs. Equality:** Understood that relational comparisons (`>`, `<`) and equality checks (`==` vs `===`) handle data types differently.
