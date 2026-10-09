@@ -35,3 +35,8 @@ Familiarized myself with JavaScript's core data types:
 ### 5. Data Type Comparisons
 * **Type Coercion:** Learned how JavaScript converts strings to numbers during comparisons.
 * **Comparisons vs. Equality:** Understood that relational comparisons (`>`, `<`) and equality checks (`==` vs `===`) handle data types differently.
+
+### 3. Data Types: Primitive vs. Non-Primitive
+* **Primitive Types (Stored by Value):** Includes 7 types: `String`, `Number`, `Boolean`, `Null`, `Undefined`, `Symbol`, and `BigInt`. When copied, a brand-new copy of the value is created in memory.
+* **Non-Primitive Types (Stored by Reference):** Includes 3 main types: `Array`, `Object`, and `Function`. Instead of copying the actual data, variables store a reference pointing to the data's location in memory.
+* **Type Checking:** Learned how to use the `typeof` operator to check the data type of any variable.
