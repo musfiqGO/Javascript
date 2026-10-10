@@ -40,3 +40,7 @@ Familiarized myself with JavaScript's core data types:
 * **Primitive Types (Stored by Value):** Includes 7 types: `String`, `Number`, `Boolean`, `Null`, `Undefined`, `Symbol`, and `BigInt`. When copied, a brand-new copy of the value is created in memory.
 * **Non-Primitive Types (Stored by Reference):** Includes 3 main types: `Array`, `Object`, and `Function`. Instead of copying the actual data, variables store a reference pointing to the data's location in memory.
 * **Type Checking:** Learned how to use the `typeof` operator to check the data type of any variable.
+
+### 4. Stack and Heap Memory
+* **Stack Memory (Used for Primitive Types):** When a variable is copied, a brand-new copy of the value is created. Changing one variable's value does not affect the other.
+* **Heap Memory (Used for Non-Primitive/Reference Types):** Variables store a reference pointing to the memory location. Since they share the same reference, changing the value through one variable updates it for both.
