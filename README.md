@@ -44,3 +44,11 @@ Familiarized myself with JavaScript's core data types:
 ### 4. Stack and Heap Memory
 * **Stack Memory (Used for Primitive Types):** When a variable is copied, a brand-new copy of the value is created. Changing one variable's value does not affect the other.
 * **Heap Memory (Used for Non-Primitive/Reference Types):** Variables store a reference pointing to the memory location. Since they share the same reference, changing the value through one variable updates it for both.
+
+### 5. String Prototype Functions
+* **Definition:** Built-in methods attached to JavaScript's `String.prototype` that allow inspection and manipulation of text strings.
+* **Commonly Used Methods:**
+  * **Case Manipulation:** `toUpperCase()` and `toLowerCase()` to convert letter cases.
+  * **Trimming:** `trim()` to remove unnecessary whitespace from both ends.
+  * **Searching:** `includes()` to check if a substring exists, and `indexOf()` to find character positions.
+  * **Extraction & Modification:** `slice()` to extract parts of a string, `replace()` to swap character values, and `split()` to convert strings into arrays.
