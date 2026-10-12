@@ -52,3 +52,5 @@ Familiarized myself with JavaScript's core data types:
   * **Trimming:** `trim()` to remove unnecessary whitespace from both ends.
   * **Searching:** `includes()` to check if a substring exists, and `indexOf()` to find character positions.
   * **Extraction & Modification:** `slice()` to extract parts of a string, `replace()` to swap character values, and `split()` to convert strings into arrays.
+
+  * **String Object Wrappers:** Learned how JavaScript temporarily wraps primitive strings in an object wrapper behind the scenes to give them access to built-in prototype methods.
