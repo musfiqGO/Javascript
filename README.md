@@ -54,3 +54,8 @@ Familiarized myself with JavaScript's core data types:
   * **Extraction & Modification:** `slice()` to extract parts of a string, `replace()` to swap character values, and `split()` to convert strings into arrays.
 
   * **String Object Wrappers:** Learned how JavaScript temporarily wraps primitive strings in an object wrapper behind the scenes to give them access to built-in prototype methods.
+
+  ### 6. Numbers and the Math Object
+* **Number Methods:** Learned how to manipulate numbers using built-in functions like `toString()` for conversion, `toFixed()` to control decimal precision, and `toPrecision()` for specific significant digits.
+* **Math Object Methods:** Explored core mathematical utilities including `Math.abs()` for absolute values, rounding functions like `Math.round()`, `Math.ceil()`, and `Math.floor()`, and `Math.random()` for generating random numbers.
+* **Custom Random Range Formula:** Mastered the formula `Math.floor(Math.random() * (max - min + 1)) + min` to generate a random integer within a specific minimum and maximum range.
