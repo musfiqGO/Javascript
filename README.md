@@ -59,3 +59,8 @@ Familiarized myself with JavaScript's core data types:
 * **Number Methods:** Learned how to manipulate numbers using built-in functions like `toString()` for conversion, `toFixed()` to control decimal precision, and `toPrecision()` for specific significant digits.
 * **Math Object Methods:** Explored core mathematical utilities including `Math.abs()` for absolute values, rounding functions like `Math.round()`, `Math.ceil()`, and `Math.floor()`, and `Math.random()` for generating random numbers.
 * **Custom Random Range Formula:** Mastered the formula `Math.floor(Math.random() * (max - min + 1)) + min` to generate a random integer within a specific minimum and maximum range.
+
+### 7. Dates and Time in JavaScript
+* **Date Object:** Learned how to create and manage dates and times using the `new Date()` constructor.
+* **Component Extraction:** Explored methods to retrieve specific parts of a date, such as the year, month, day, hours, minutes, and day of the week.
+
