@@ -20,5 +20,23 @@ let myDate = new Date()
 
 
 let myDate2 = new Date("10-14-2026")
-console.log(myDate2.toLocaleString());
+// console.log(myDate2.toLocaleString());
+
+let myTimeStamp = Date.now()
+// console.log(myTimeStamp);
+
+// console.log(myDate2.getTime());
+
+// console.log(Math.floor(Date.now()/1000));
+
+let newDate = new Date()
+console.log(newDate);
+console.log(newDate.getMonth());
+console.log(newDate.getDay());
+console.log(newDate.getTime());
+// console.log(`${newDate.getDay()} and the time`)
+
+ newDate.toLocaleString('default',{
+   weekday: "long", 
+ })
 

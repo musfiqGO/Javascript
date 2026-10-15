@@ -64,3 +64,4 @@ Familiarized myself with JavaScript's core data types:
 * **Date Object:** Learned how to create and manage dates and times using the `new Date()` constructor.
 * **Component Extraction:** Explored methods to retrieve specific parts of a date, such as the year, month, day, hours, minutes, and day of the week.
 
+* **Timestamps & Formatting:** Understood how to measure time in milliseconds using `Date.now()` and how to convert date objects into readable string formats.
