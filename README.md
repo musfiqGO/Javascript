@@ -65,3 +65,18 @@ Familiarized myself with JavaScript's core data types:
 * **Component Extraction:** Explored methods to retrieve specific parts of a date, such as the year, month, day, hours, minutes, and day of the week.
 
 * **Timestamps & Formatting:** Understood how to measure time in milliseconds using `Date.now()` and how to convert date objects into readable string formats.
+
+### 8. Arrays and Array Methods
+* **Array Basics:** Learned how to store and organize multiple items in a single variable.
+* **Adding & Removing Elements:** 
+  * `push()` to add elements to the end of an array.
+  * `pop()` to remove the last element.
+* **Searching:** 
+  * `includes()` to check if a specific value exists (`true`/`false`).
+  * `indexOf()` to find the index position of a value.
+* **String Conversion:** 
+  * `join()` to combine all array elements into a single string.
+* **Extracting & Modifying (`slice` vs. `splice`):** 
+  * `slice()` to copy a portion of an array without changing the original.
+  * `splice()` to add, remove, or replace elements directly in place (modifying the original array).
+  
