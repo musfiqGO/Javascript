@@ -44,7 +44,7 @@ console.log("B " ,myArr);
 
 const mynewAr2 = myArr.splice(1,3)
 console.log(mynewAr2);
-console.log("C ",myArr);
+console.log("C ", myArr);
 
  
 
